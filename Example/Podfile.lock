@@ -1,0 +1,16 @@
+PODS:
+  - YCSwiftTimer (0.1.0)
+
+DEPENDENCIES:
+  - YCSwiftTimer (from `../`)
+
+EXTERNAL SOURCES:
+  YCSwiftTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YCSwiftTimer: 5f841839ef9451b3bdda161b7f6c554f5ba68dad
+
+PODFILE CHECKSUM: cfd7ee9dfe992a1b23b076c4848785b9e3dfeba8
+
+COCOAPODS: 1.9.3

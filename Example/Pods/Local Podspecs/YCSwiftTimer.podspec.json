@@ -1,0 +1,22 @@
+{
+  "name": "YCSwiftTimer",
+  "version": "0.1.0",
+  "summary": "A short description of YCSwiftTimer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Loveying/YCSwiftTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Loveying": "xyy_ios@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Loveying/YCSwiftTimer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YCSwiftTimer/Classes/**/*"
+}

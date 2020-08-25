@@ -1,0 +1,6 @@
+framework module YCSwiftTimer {
+  umbrella header "YCSwiftTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

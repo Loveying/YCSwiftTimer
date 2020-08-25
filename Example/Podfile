@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YCSwiftTimer_Example' do
+  pod 'YCSwiftTimer', :path => '../'
+
+  target 'YCSwiftTimer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
